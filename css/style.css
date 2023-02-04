@@ -1,0 +1,44 @@
+* {
+    background-color: dodgerblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width: 85%;
+    margin: auto;
+}
+
+h1 {
+    font-size: 44px;
+    color:darkgray;
+    letter-spacing: 1px;
+    text-align: center;
+    font-variant: small-caps;
+    text-shadow: 3px 3px 1px dimgray;
+
+}
+
+h2 {
+    font-size: 38px;
+    color: midnightblue;
+    letter-spacing: 1px;
+    text-align: center;
+    font-style: italic;
+    font-variant: small-caps;
+    text-shadow: 3px 3px 1px dimgray;
+
+}
+
+#parrafo-id {
+    color:honeydew;
+    font-size: 12px;
+    font-style: italic;
+    letter-spacing: 0.5px;
+    
+}
+
+.parrafo-class {
+    color:blanchedalmond;
+    font-size: 14px;
+}
+
+
+
+/*comentario*/ 
